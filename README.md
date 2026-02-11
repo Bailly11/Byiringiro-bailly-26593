@@ -40,8 +40,7 @@ Update book details
 Delete a book
 
 📷 Screenshot — Question 1
-<!-- After running, insert screenshot here. -->
-![Question 1](screenshots/q1-library.png)
+for screenshots there are all in postman collections folder
 
 🧪 Sample Endpoints
 GET /books
@@ -68,7 +67,7 @@ Update student
 Delete student
 
 📷 Screenshot — Question 2
-![Question 2](screenshots/q2-student.png)
+for screenshots there are all in postman collections folder
 
 🧪 Sample Endpoints
 GET /students
@@ -91,7 +90,7 @@ Create orders
 Manage customer data
 
 📷 Screenshot — Question 3
-![Question 3](screenshots/q3-restaurant.png)
+for screenshots there are all in postman collections folder
 
 ### 🧩 Question 4 — E-Commerce API
 📌 Description
@@ -109,7 +108,7 @@ Place orders
 Update stock
 
 📷 Screenshot — Question 4
-![Question 4](screenshots/q4-ecommerce.png)
+for screenshots there are all in postman collections folder
 
 ### 🧩 Question 5 — Task Management API
 📌 Description
@@ -127,7 +126,7 @@ List tasks
 Delete tasks
 
 📷 Screenshot — Question 5
-![Question 5](screenshots/q5-tasks.png)
+for screenshots there are all in postman collections folder
 
 ### 🧩 Question 6 — User Profile API
 📌 Description
@@ -145,4 +144,4 @@ Update profile
 Delete user
 
 📷 Screenshot — Question 6
-![Question 6](screenshots/q6-user-profile.png)
+for screenshots there are all in postman collections folder
