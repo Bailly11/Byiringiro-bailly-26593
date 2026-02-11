@@ -1,7 +1,7 @@
 
 # 📘 RESTful API Assignment 
 
-## Student: Byiringiro Bailly
+## NAMES: Byiringiro Bailly
 ## ID: 26593
 
 ### Course: Web Technology – Assignment 2
