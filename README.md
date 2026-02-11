@@ -14,13 +14,13 @@ Each question is implemented as a separate API project, with proper routes, cont
 
 🗂️ Project Structure
 Byiringiro-bailly-26593/
-├── question1-library-api
-├── question2-student-api
-├── question3-restaurant-api
-├── question4-E-Commerce-api
-├── question5-Task-Management-api
-├── question6-User-Profile-api
-├── README.md
+.├── question1-library-api
+.├── question2-student-api
+.├── question3-restaurant-api
+.├── question4-E-Commerce-api
+.├── question5-Task-Management-api
+.├── question6-User-Profile-api
+.├── README.md
 
 #### 🧩 Question 1 — Library API
 📌 What it does
