@@ -8,10 +8,11 @@
 This project is a RESTful CRUD API developed using Java Spring Boot. The application allows users to perform Create, Read, Update, and Delete operations on product data stored in a PostgreSQL database. The system follows a layered architecture including Controller, Service, Repository, and Model layers.
 
 ## CRUD Operations Implemented
-•	CREATE – Implemented using @PostMapping to add new products to the database.
-•	READ – Implemented using @GetMapping to retrieve all products and retrieve a product by ID.
-•	UPDATE – Implemented using @PutMapping to modify existing product details.
-•	DELETE – Implemented using @DeleteMapping to remove products from the database.
+- **CREATE** – Implemented using @PostMapping to add new products to the database.
+- **READ**  – Implemented using @GetMapping to retrieve all products and retrieve a product by ID.
+- **UPDATE**– Implemented using @PutMapping to modify existing product details.
+- **DELETE**– Implemented using @DeleteMapping to remove products from the database.
+- 
 The controller class inside the 'controller' package handles all HTTP requests, while the repository layer (JpaRepository) manages database interactions. Therefore, the project fully satisfies the requirements of a CRUD REST API.
 
 ## Technologies Used
